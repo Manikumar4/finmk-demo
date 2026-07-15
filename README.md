@@ -1,5 +1,11 @@
-# FinMK - Advanced Personal Finance Tracker
+## 📂 Demo Repository
 
+This repository contains the **demo version** of the project.
+
+The **complete source code** is available in the original FinMK repository:
+https://github.com/Manikumar4/finmk
+
+# FinMK - Advanced Personal Finance Tracker
 ## 🚀 Overview
 
 FinMK is a state-of-the-art personal finance management application designed to help you track, analyze, and optimize your financial life. Built with a modern **React** frontend and a robust **Django** backend, it leverages AI and Machine Learning to provide deep insights into your spending habits.
