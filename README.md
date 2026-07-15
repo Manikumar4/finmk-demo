@@ -3,7 +3,7 @@
 This repository contains the **demo version** of the project.
 
 The **complete source code** is available in the original FinMK repository:
-https://github.com/Manikumar4/finmk
+https://github.com/Manikumar4/finmk (private)
 
 # FinMK - Advanced Personal Finance Tracker
 ## 🚀 Overview
